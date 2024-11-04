@@ -1,35 +1,18 @@
 class Solution {
     public String compressedString(String word) {
-        StringBuilder sb = new StringBuilder();
-        
-        int counter=1 ;
-        word+=' ';
-        
-        for (int i =0;i<word.length()-1;i++){
-            if (counter == 9){
-                sb.append(counter);
-                sb.append(word.charAt(i-1));
-                if(word.charAt(i-1)==word.charAt(i))
-                    counter = 0;
-                else
-                    counter=1;
-            }
-            if(word.charAt(i)==word.charAt(i+1))
-                counter++;
-            else
-            {
-                if(counter!=0){
-                    sb.append(counter);
-                    sb.append(word.charAt(i));
-                
-                    
-                }
-                counter = 1;
-                    
+        StringBuilder comp = new StringBuilder();
+        int cnt = 1, n = word.length();
+        char ch = word.charAt(0);
+        for (int i = 1; i < n; i++) {
+            if (word.charAt(i) == ch && cnt < 9) {
+                cnt++;
+            } else {
+                comp.append(cnt).append(ch);
+                ch = word.charAt(i);
+                cnt = 1;
             }
         }
-        
-        
-        return sb.toString();
+        comp.append(cnt).append(ch);
+        return comp.toString();
     }
 }
