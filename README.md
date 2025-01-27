@@ -6,6 +6,7 @@
 | ------- |
 | [0197-rising-temperature](https://github.com/Aniso13/Leetcode/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/Aniso13/Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [1801-average-time-of-process-per-machine](https://github.com/Aniso13/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 ## Math
 |  |
 | ------- |
