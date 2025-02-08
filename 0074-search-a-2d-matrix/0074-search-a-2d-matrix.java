@@ -3,25 +3,21 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
         
-        // Find the correct row where the target might be
-        int col = -1;  // Initialize row index
+        int col = -1;  
         
         for (int i = 0; i < rows; i++) {
             if (matrix[i][0] == target) {
-                return true; // If the target is the first element of a row
+                return true; 
             }
             if (matrix[i][0] > target) {
-                col = i - 1; // The target must be in the previous row
+                col = i - 1; 
                 break;
             }
         }
         
-        // If no valid row was found (target might be in the last row)
         if (col == -1) {
             col = rows - 1;
-        }
-        
-        // Binary search in the identified row
+        } 
         int low = 0;
         int high = cols - 1;
         
@@ -39,6 +35,6 @@ class Solution {
             }
         }
         
-        return false; // Target not found
+        return false; 
     }
 }
