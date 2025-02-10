@@ -44,4 +44,16 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
