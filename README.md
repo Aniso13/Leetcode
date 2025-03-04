@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aniso13/Leetcode/tree/master/0069-sqrtx) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Aniso13/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Binary Search
 |  |
 | ------- |
