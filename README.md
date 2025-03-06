@@ -18,6 +18,7 @@
 | [0069-sqrtx](https://github.com/Aniso13/Leetcode/tree/master/0069-sqrtx) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Aniso13/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aniso13/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -36,10 +37,12 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniso13/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniso13/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aniso13/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -49,6 +52,7 @@
 | ------- |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniso13/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
