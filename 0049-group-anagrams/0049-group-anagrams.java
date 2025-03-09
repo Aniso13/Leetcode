@@ -5,15 +5,12 @@ class Solution {
         Map<String, List<String>> anagramGroups = new HashMap<>();
 
         for (String word : strs) {
-            int[] charCount = new int[26];
-            for (char c : word.toCharArray()) {
-                charCount[c - 'a']++;
-            }
+            char[] charArray = word.toCharArray();
+            Arrays.sort(charArray);
+            String sortedWord = new String(charArray);
 
-            String key = Arrays.toString(charCount);
-
-            anagramGroups.putIfAbsent(key, new ArrayList<>());
-            anagramGroups.get(key).add(word);
+            anagramGroups.putIfAbsent(sortedWord, new ArrayList<>());
+            anagramGroups.get(sortedWord).add(word);
         }
 
         return new ArrayList<>(anagramGroups.values());
