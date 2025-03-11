@@ -13,6 +13,7 @@
 | [1415-students-and-examinations](https://github.com/Aniso13/Leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Aniso13/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Aniso13/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/Aniso13/Leetcode/tree/master/2087-confirmation-rate) |
 ## Math
 |  |
 | ------- |
