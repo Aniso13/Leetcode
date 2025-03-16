@@ -31,6 +31,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniso13/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Aniso13/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Aniso13/Leetcode/tree/master/2690-house-robber-iv) |
 ## Array
 |  |
@@ -45,6 +46,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniso13/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Aniso13/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Aniso13/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniso13/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
