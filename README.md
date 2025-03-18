@@ -120,6 +120,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aniso13/Leetcode/tree/master/0049-group-anagrams) |
+| [0147-insertion-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
@@ -154,6 +155,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
