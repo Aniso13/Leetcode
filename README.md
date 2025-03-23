@@ -43,6 +43,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2058-concatenation-of-array](https://github.com/Aniso13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2478-longest-nice-subarray](https://github.com/Aniso13/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -105,6 +106,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/Aniso13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
