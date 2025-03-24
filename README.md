@@ -85,6 +85,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Aniso13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aniso13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -107,6 +108,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniso13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Aniso13/Leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aniso13/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniso13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aniso13/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aniso13/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Aniso13/Leetcode/tree/master/2478-longest-nice-subarray) |
