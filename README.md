@@ -61,6 +61,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniso13/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aniso13/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/Aniso13/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/Aniso13/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aniso13/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aniso13/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -158,6 +159,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Aniso13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
+| [3430-count-days-without-meetings](https://github.com/Aniso13/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Divide and Conquer
 |  |
 | ------- |
