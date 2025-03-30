@@ -92,6 +92,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
+| [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
@@ -114,6 +116,7 @@
 | [0049-group-anagrams](https://github.com/Aniso13/Leetcode/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aniso13/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -231,6 +234,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aniso13/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Union Find
 |  |
