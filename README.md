@@ -98,6 +98,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
@@ -196,10 +197,12 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniso13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniso13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -209,6 +212,7 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniso13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Linked List
 |  |
 | ------- |
@@ -264,6 +268,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
