@@ -6,31 +6,26 @@ class Solution {
         while (low <= high) {
             int mid = low + (high - low) / 2;
             
-            // If target is found
             if (nums[mid] == target) {
                 return mid;
             }
             
-            // Check if the left half is sorted
             if (nums[low] <= nums[mid]) {
-                // Check if the target lies within the sorted left half
                 if (nums[low] <= target && target <= nums[mid]) {
-                    high = mid - 1;  // Focus on the left half
+                    high = mid - 1;  
                 } else {
-                    low = mid + 1;  // Focus on the right half
+                    low = mid + 1;  
                 }
             }
-            // Else the right half must be sorted
             else {
-                // Check if the target lies within the sorted right half
                 if (nums[mid] <= target && target <= nums[high]) {
-                    low = mid + 1;  // Focus on the right half
+                    low = mid + 1;  
                 } else {
-                    high = mid - 1;  // Focus on the left half
+                    high = mid - 1;  
                 }
             }
         }
         
-        return -1; // If the target is not found
+        return -1; 
     }
 }
