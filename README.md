@@ -234,6 +234,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniso13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniso13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
@@ -244,6 +245,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniso13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniso13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
@@ -259,6 +261,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Aniso13/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aniso13/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Linked List
 |  |
