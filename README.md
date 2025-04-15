@@ -42,6 +42,7 @@
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniso13/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Aniso13/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -74,6 +75,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2478-longest-nice-subarray](https://github.com/Aniso13/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -216,6 +218,7 @@
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -274,6 +277,7 @@
 | ------- |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -373,4 +377,16 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aniso13/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Aniso13/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aniso13/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
