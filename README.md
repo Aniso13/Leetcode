@@ -82,6 +82,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aniso13/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Aniso13/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Aniso13/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Aniso13/Leetcode/tree/master/2690-house-robber-iv) |
@@ -128,6 +129,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Aniso13/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniso13/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -189,6 +191,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aniso13/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Aniso13/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Aniso13/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2786-find-the-longest-semi-repetitive-substring](https://github.com/Aniso13/Leetcode/tree/master/2786-find-the-longest-semi-repetitive-substring) |
 | [3463-alternating-groups-i](https://github.com/Aniso13/Leetcode/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aniso13/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
