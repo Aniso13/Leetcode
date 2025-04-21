@@ -266,6 +266,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aniso13/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +284,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -311,6 +313,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Aniso13/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -382,6 +385,7 @@
 | [0226-invert-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
 |  |
