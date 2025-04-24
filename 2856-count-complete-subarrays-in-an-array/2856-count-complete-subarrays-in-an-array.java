@@ -1,26 +1,30 @@
-class Solution {
+import java.util.*;
+
+public class Solution {
     public int countCompleteSubarrays(int[] nums) {
-        Set<Integer> unique = new HashSet<>();
-        for(int num : nums)
-            unique.add(num);
-        
-        int totalunique = unique.size();
-        int count=0;
-        for (int left = 0; left < nums.length; left++) {
-            Map<Integer, Integer> freq = new HashMap<>();
-            int uniqueInWindow = 0;
+        int n = nums.length;
+        Set<Integer> uniqueSet = new HashSet<>();
+        for (int num : nums) {
+            uniqueSet.add(num);
+        }
+        int totalUnique = uniqueSet.size();
 
-            for (int right = left; right < nums.length; right++) {
-                int num = nums[right];
-                freq.put(num, freq.getOrDefault(num, 0) + 1);
+        int left = 0, count = 0;
+        Map<Integer, Integer> freqMap = new HashMap<>();
 
-                if (freq.get(num) == 1) {
-                    uniqueInWindow++;
+        for (int right = 0; right < n; right++) {
+            int num = nums[right];
+            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
+
+            while (freqMap.size() == totalUnique) {
+                count += (n - right);
+
+                int leftNum = nums[left];
+                freqMap.put(leftNum, freqMap.get(leftNum) - 1);
+                if (freqMap.get(leftNum) == 0) {
+                    freqMap.remove(leftNum);
                 }
-
-                if (uniqueInWindow == totalunique) {
-                    count++;
-                }
+                left++;
             }
         }
 
