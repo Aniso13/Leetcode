@@ -5,17 +5,25 @@ class Solution {
             unique.add(num);
         
         int totalunique = unique.size();
-        int counter=0;
-        for(int i=0;i<nums.length ;i++)
-        {
-            Set<Integer> seen = new HashSet<>();
-            for(int j = i ;j<nums.length;j++)
-            {
-                seen.add(nums[j]);
-                if(seen.size()==unique.size())
-                    counter++;
+        int count=0;
+        for (int left = 0; left < nums.length; left++) {
+            Map<Integer, Integer> freq = new HashMap<>();
+            int uniqueInWindow = 0;
+
+            for (int right = left; right < nums.length; right++) {
+                int num = nums[right];
+                freq.put(num, freq.getOrDefault(num, 0) + 1);
+
+                if (freq.get(num) == 1) {
+                    uniqueInWindow++;
+                }
+
+                if (uniqueInWindow == totalunique) {
+                    count++;
+                }
             }
         }
-        return counter;
+
+        return count;
     }
 }
