@@ -73,6 +73,7 @@
 | [0368-largest-divisible-subset](https://github.com/Aniso13/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Aniso13/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/Aniso13/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0797-rabbits-in-forest](https://github.com/Aniso13/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
 | [0907-koko-eating-bananas](https://github.com/Aniso13/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -211,6 +212,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aniso13/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Aniso13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/Aniso13/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Aniso13/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aniso13/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
