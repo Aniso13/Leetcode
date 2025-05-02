@@ -185,6 +185,7 @@
 | [0567-permutation-in-string](https://github.com/Aniso13/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Aniso13/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Aniso13/Leetcode/tree/master/2634-minimum-common-value) |
@@ -203,6 +204,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aniso13/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Aniso13/Leetcode/tree/master/0868-push-dominoes) |
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -405,6 +407,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniso13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0368-largest-divisible-subset](https://github.com/Aniso13/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Aniso13/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Aniso13/Leetcode/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aniso13/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Aniso13/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Aniso13/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
