@@ -94,6 +94,7 @@
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniso13/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Aniso13/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Aniso13/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniso13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -242,6 +243,7 @@
 | [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Aniso13/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
@@ -525,6 +527,7 @@
 | [0739-daily-temperatures](https://github.com/Aniso13/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Aniso13/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
