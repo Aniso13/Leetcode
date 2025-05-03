@@ -81,6 +81,7 @@
 | [0368-largest-divisible-subset](https://github.com/Aniso13/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Aniso13/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aniso13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Aniso13/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Aniso13/Leetcode/tree/master/0682-baseball-game) |
@@ -160,6 +161,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Aniso13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Aniso13/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Aniso13/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -231,6 +233,7 @@
 | [0227-basic-calculator-ii](https://github.com/Aniso13/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Aniso13/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Aniso13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aniso13/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aniso13/Leetcode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -512,6 +515,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Aniso13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aniso13/Leetcode/tree/master/0739-daily-temperatures) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
