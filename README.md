@@ -90,6 +90,7 @@
 | [0907-koko-eating-bananas](https://github.com/Aniso13/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniso13/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Aniso13/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniso13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -443,6 +444,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Aniso13/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Aniso13/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
