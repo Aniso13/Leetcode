@@ -236,6 +236,7 @@
 | [0496-next-greater-element-i](https://github.com/Aniso13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aniso13/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aniso13/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -494,6 +495,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Aniso13/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniso13/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
+| [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
 ## Hash Function
 |  |
@@ -517,6 +519,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Aniso13/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aniso13/Leetcode/tree/master/0739-daily-temperatures) |
+| [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
@@ -554,4 +557,8 @@
 | [0239-sliding-window-maximum](https://github.com/Aniso13/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Aniso13/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
