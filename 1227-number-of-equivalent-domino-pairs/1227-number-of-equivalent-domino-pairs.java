@@ -1,15 +1,15 @@
 class Solution {
     public int numEquivDominoPairs(int[][] dominoes) {
-        int count = 0;
-        for (int i = 0; i < dominoes.length; i++) {
-            for (int j = i + 1; j < dominoes.length; j++) {
-                int a = dominoes[i][0], b = dominoes[i][1];
-                int c = dominoes[j][0], d = dominoes[j][1];
-                if ((a == c && b == d) || (a == d && b == c)) {
-                    count++;
-                }
-            }
+        int[] count = new int[100];
+        int result = 0;
+
+        for (int[] d : dominoes) {
+            int a = d[0], b = d[1];
+            int key = a < b ? a * 10 + b : b * 10 + a; 
+            result += count[key];
+            count[key]++;
         }
-        return count;
+
+        return result;
     }
 }
