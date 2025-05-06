@@ -442,6 +442,7 @@
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0838-design-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
@@ -535,6 +536,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Aniso13/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniso13/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
+| [0838-design-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0838-design-linked-list) |
 | [0931-maximum-frequency-stack](https://github.com/Aniso13/Leetcode/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/Aniso13/Leetcode/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
