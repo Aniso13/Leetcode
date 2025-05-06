@@ -111,6 +111,7 @@
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Aniso13/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aniso13/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Aniso13/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aniso13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/Aniso13/Leetcode/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/Aniso13/Leetcode/tree/master/0682-baseball-game) |
+| [2048-build-array-from-permutation](https://github.com/Aniso13/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aniso13/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
