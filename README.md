@@ -176,6 +176,7 @@
 | [0049-group-anagrams](https://github.com/Aniso13/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Aniso13/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Aniso13/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/Aniso13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aniso13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0567-permutation-in-string](https://github.com/Aniso13/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
@@ -438,6 +440,7 @@
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
 ## Merge Sort
 |  |
