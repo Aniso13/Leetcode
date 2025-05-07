@@ -148,6 +148,7 @@
 | [3483-alternating-groups-ii](https://github.com/Aniso13/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aniso13/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Aniso13/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Aniso13/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Aniso13/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Aniso13/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -161,6 +162,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniso13/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Counting
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aniso13/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -507,6 +510,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aniso13/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -529,6 +533,7 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aniso13/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Design
 |  |
 | ------- |
