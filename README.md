@@ -40,6 +40,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Aniso13/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aniso13/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Aniso13/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/Aniso13/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aniso13/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Aniso13/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -471,6 +473,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Aniso13/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Aniso13/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aniso13/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Aniso13/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -589,6 +592,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aniso13/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Aniso13/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aniso13/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3637-count-number-of-balanced-permutations](https://github.com/Aniso13/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Enumeration
 |  |
 | ------- |
