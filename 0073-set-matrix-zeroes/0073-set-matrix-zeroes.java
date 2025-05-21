@@ -6,7 +6,6 @@ class Solution {
         boolean firstRowHasZero = false;
         boolean firstColHasZero = false;
 
-        // Check if the first row contains zero
         for (int c = 0; c < cols; c++) {
             if (matrix[0][c] == 0) {
                 firstRowHasZero = true;
@@ -14,8 +13,7 @@ class Solution {
             }
         }
 
-        // Check if the first column contains zero
-        for (int r = 0; r < rows; r++) {
+         for (int r = 0; r < rows; r++) {
             if (matrix[r][0] == 0) {
                 firstColHasZero = true;
                 break;
