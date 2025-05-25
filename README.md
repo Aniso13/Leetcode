@@ -22,6 +22,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aniso13/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Aniso13/Leetcode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Aniso13/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Aniso13/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Aniso13/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0523-continuous-subarray-sum](https://github.com/Aniso13/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -199,6 +200,7 @@
 | [0076-minimum-window-substring](https://github.com/Aniso13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Aniso13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Aniso13/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Aniso13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aniso13/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -239,6 +241,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Aniso13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Aniso13/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/Aniso13/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
