@@ -1,13 +1,23 @@
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
-        int total = 0;
+       Queue<Integer> q = new LinkedList<>();
 
-        for(int i=0;i< tickets.length;i++)
-        {
-            if(i<=k) total+= Math.min(tickets[i], tickets[k]);
-            else total+= Math.min(tickets[i], tickets[k]-1);
-        }
+       for(int i=0;i<tickets.length;i++)    q.add(i);
 
-        return total ;
-    }
-}
+       int counter=0;
+       while(!q.isEmpty())
+       {
+        counter++;
+        int front=q.poll();
+
+        if(tickets[front]>= 1)     tickets[front]--;
+
+        if(k==front && tickets[front]==0)   break;
+
+        if(k!=front && tickets[front]==0)    continue;
+
+        q.add(front);
+       }
+
+       return counter;
+}}
