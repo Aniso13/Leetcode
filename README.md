@@ -466,6 +466,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Aniso13/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Aniso13/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
@@ -587,6 +588,7 @@
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aniso13/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aniso13/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Aniso13/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aniso13/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
