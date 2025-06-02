@@ -84,6 +84,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Aniso13/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aniso13/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aniso13/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Aniso13/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/Aniso13/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aniso13/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aniso13/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -566,6 +567,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Aniso13/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Aniso13/Leetcode/tree/master/0797-rabbits-in-forest) |
