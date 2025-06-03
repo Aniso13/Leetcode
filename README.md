@@ -119,6 +119,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Aniso13/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniso13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Aniso13/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aniso13/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -590,6 +591,7 @@
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aniso13/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aniso13/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -616,6 +618,7 @@
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0945-snakes-and-ladders](https://github.com/Aniso13/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Aniso13/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
