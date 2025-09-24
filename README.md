@@ -22,6 +22,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Aniso13/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Aniso13/Leetcode/tree/master/0069-sqrtx) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Aniso13/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Aniso13/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Aniso13/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0368-largest-divisible-subset](https://github.com/Aniso13/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -216,6 +217,7 @@
 | [0076-minimum-window-substring](https://github.com/Aniso13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Aniso13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aniso13/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Aniso13/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/Aniso13/Leetcode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Aniso13/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aniso13/Leetcode/tree/master/0229-majority-element-ii) |
@@ -286,6 +288,7 @@
 | [0049-group-anagrams](https://github.com/Aniso13/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aniso13/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/Aniso13/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Aniso13/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/Aniso13/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aniso13/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
