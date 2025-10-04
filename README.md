@@ -79,6 +79,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aniso13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aniso13/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Aniso13/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aniso13/Leetcode/tree/master/0049-group-anagrams) |
@@ -267,6 +268,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aniso13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Aniso13/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Aniso13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
@@ -606,6 +608,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aniso13/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Aniso13/Leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Aniso13/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/Aniso13/Leetcode/tree/master/0611-valid-triangle-number) |
