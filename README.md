@@ -63,6 +63,7 @@
 | [0456-132-pattern](https://github.com/Aniso13/Leetcode/tree/master/0456-132-pattern) |
 | [0611-valid-triangle-number](https://github.com/Aniso13/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Aniso13/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniso13/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -116,6 +117,7 @@
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Aniso13/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Aniso13/Leetcode/tree/master/0739-daily-temperatures) |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Aniso13/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0816-design-hashset](https://github.com/Aniso13/Leetcode/tree/master/0816-design-hashset) |
 | [0883-car-fleet](https://github.com/Aniso13/Leetcode/tree/master/0883-car-fleet) |
@@ -199,6 +201,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Aniso13/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Aniso13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aniso13/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Aniso13/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -457,6 +460,7 @@
 | [0239-sliding-window-maximum](https://github.com/Aniso13/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Aniso13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniso13/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aniso13/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -508,6 +512,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Aniso13/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -631,6 +636,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Aniso13/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -663,6 +669,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Aniso13/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aniso13/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/Aniso13/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Aniso13/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
