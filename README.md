@@ -68,6 +68,7 @@
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aniso13/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
@@ -133,6 +134,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniso13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Aniso13/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aniso13/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -250,6 +252,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Aniso13/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Aniso13/Leetcode/tree/master/1500-count-largest-group) |
+| [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aniso13/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniso13/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Aniso13/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -462,6 +465,7 @@
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniso13/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aniso13/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -624,6 +628,7 @@
 | [0797-rabbits-in-forest](https://github.com/Aniso13/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Aniso13/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aniso13/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
