@@ -329,6 +329,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aniso13/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aniso13/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Aniso13/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -644,6 +645,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Aniso13/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aniso13/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aniso13/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
