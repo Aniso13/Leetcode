@@ -331,6 +331,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Aniso13/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aniso13/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aniso13/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Aniso13/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aniso13/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -378,6 +379,7 @@
 | ------- |
 | [0289-game-of-life](https://github.com/Aniso13/Leetcode/tree/master/0289-game-of-life) |
 | [0682-baseball-game](https://github.com/Aniso13/Leetcode/tree/master/0682-baseball-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aniso13/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Aniso13/Leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/Aniso13/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aniso13/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -799,6 +801,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aniso13/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aniso13/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Doubly-Linked List
 |  |
 | ------- |
