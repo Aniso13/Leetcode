@@ -198,6 +198,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aniso13/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aniso13/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3483-alternating-groups-ii](https://github.com/Aniso13/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Aniso13/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aniso13/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Aniso13/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Aniso13/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -228,6 +229,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aniso13/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aniso13/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Aniso13/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Aniso13/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Aniso13/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Aniso13/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -659,6 +661,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aniso13/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Aniso13/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Aniso13/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Aniso13/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Aniso13/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Aniso13/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Aniso13/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -797,6 +800,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Aniso13/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Aniso13/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Aniso13/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Aniso13/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Aniso13/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Aniso13/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Indexed Tree
