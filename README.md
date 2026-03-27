@@ -40,6 +40,7 @@
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Aniso13/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Aniso13/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aniso13/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Aniso13/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Aniso13/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -176,6 +177,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Aniso13/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aniso13/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Aniso13/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aniso13/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Aniso13/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aniso13/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Aniso13/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -226,6 +228,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniso13/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aniso13/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aniso13/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Aniso13/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aniso13/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Aniso13/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -403,6 +406,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Aniso13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Aniso13/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Aniso13/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aniso13/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/Aniso13/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
 ## Number Theory
