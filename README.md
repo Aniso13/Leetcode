@@ -363,6 +363,7 @@
 | [3194-find-words-containing-character](https://github.com/Aniso13/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Aniso13/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/Aniso13/Leetcode/tree/master/3447-clear-digits) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Aniso13/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Aniso13/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/Aniso13/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Aniso13/Leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -692,6 +693,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Aniso13/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aniso13/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Aniso13/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Aniso13/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/Aniso13/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aniso13/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3647-zero-array-transformation-iii](https://github.com/Aniso13/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -859,4 +861,8 @@
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aniso13/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Aniso13/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
