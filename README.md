@@ -346,6 +346,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Aniso13/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Aniso13/Leetcode/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/Aniso13/Leetcode/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/Aniso13/Leetcode/tree/master/0796-rotate-string) |
 | [0868-push-dominoes](https://github.com/Aniso13/Leetcode/tree/master/0868-push-dominoes) |
 | [1023-time-based-key-value-store](https://github.com/Aniso13/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Aniso13/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -867,5 +868,6 @@
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Aniso13/Leetcode/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aniso13/Leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
