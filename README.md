@@ -308,6 +308,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aniso13/Leetcode/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Aniso13/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aniso13/Leetcode/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Aniso13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
@@ -601,6 +602,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Aniso13/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Aniso13/Leetcode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Aniso13/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Aniso13/Leetcode/tree/master/0148-sort-list) |
