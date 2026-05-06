@@ -24,16 +24,16 @@ class Solution {
                 if (result[i][j] == '.') { // Found an empty cell; check if a stone can fall into it
                     int nextRowWithStone = -1;
 
-                    // Look for a stone directly above the empty cell `result[i][j]`
+                 
                     for (int k = i - 1; k >= 0; k--) {
-                        if (result[k][j] == '*') break; // Obstacle blocks any stones above
-                        if (result[k][j] == '#') { // Stone found with no obstacles in between
+                        if (result[k][j] == '*') break; 
+                        if (result[k][j] == '#') { 
                             nextRowWithStone = k;
                             break;
                         }
                     }
 
-                    // If a stone was found above, let it fall into the empty cell `result[i][j]`
+                   
                     if (nextRowWithStone != -1) {
                         result[nextRowWithStone][j] = '.';
                         result[i][j] = '#';
@@ -44,7 +44,6 @@ class Solution {
         return result;
     }
 
-    // Helper function to reverse an array
     private void reverse(char[] row) {
         int left = 0;
         int right = row.length - 1;
