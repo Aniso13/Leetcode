@@ -213,6 +213,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Aniso13/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Aniso13/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Aniso13/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/Aniso13/Leetcode/tree/master/3660-jump-game-ix) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Aniso13/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Matrix
 |  |
@@ -652,6 +653,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Aniso13/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Aniso13/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Aniso13/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3660-jump-game-ix](https://github.com/Aniso13/Leetcode/tree/master/3660-jump-game-ix) |
 ## Bit Manipulation
 |  |
 | ------- |
