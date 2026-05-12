@@ -147,6 +147,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Aniso13/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Aniso13/Leetcode/tree/master/1656-count-good-triplets) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aniso13/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniso13/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1861-rotating-the-box](https://github.com/Aniso13/Leetcode/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aniso13/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -491,6 +492,7 @@
 | [0658-find-k-closest-elements](https://github.com/Aniso13/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/Aniso13/Leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aniso13/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniso13/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -704,6 +706,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Aniso13/Leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aniso13/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Aniso13/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aniso13/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aniso13/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniso13/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
