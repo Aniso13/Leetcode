@@ -139,6 +139,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Aniso13/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Aniso13/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Aniso13/Leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1306-jump-game-iii](https://github.com/Aniso13/Leetcode/tree/master/1306-jump-game-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Aniso13/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Aniso13/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -585,6 +586,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Aniso13/Leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/Aniso13/Leetcode/tree/master/1306-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Aniso13/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -765,6 +767,7 @@
 | [0794-swim-in-rising-water](https://github.com/Aniso13/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/Aniso13/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Aniso13/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1306-jump-game-iii](https://github.com/Aniso13/Leetcode/tree/master/1306-jump-game-iii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Aniso13/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Aniso13/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aniso13/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
