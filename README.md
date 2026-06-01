@@ -158,6 +158,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aniso13/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Aniso13/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Aniso13/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aniso13/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Aniso13/Leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -501,6 +502,7 @@
 | [0948-sort-an-array](https://github.com/Aniso13/Leetcode/tree/master/0948-sort-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aniso13/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniso13/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aniso13/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Aniso13/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aniso13/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -719,6 +721,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aniso13/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Aniso13/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aniso13/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Aniso13/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Aniso13/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Aniso13/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/Aniso13/Leetcode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
